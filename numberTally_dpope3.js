@@ -10,6 +10,6 @@ function numberTally(numList) {
 			evenTotal += numList[i];
 		}
 	}
-	alert(`evenTotal = ${oddTotal}`);
+	alert(`oddTotal = ${oddTotal}`);
 	return evenTotal;
 }
